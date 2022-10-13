@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{22C75F7A-F0D9-47FB-AEC2-28CB0FF54980}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MP.ApiDotNet6.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MP.ApiDotNet6.Application/DTOs/Validations/UserDTOValidator.cs">
+    <Files>
+      <File FileName="MP.ApiDotNet6.Domain/Authentication/ITokenGenerator.cs" Line="8" Column="38" />
+      <File FileName="MP.ApiDotNet6.Infra.Data/Authentication/TokenGenerator.cs" Line="25" Column="26" />
+      <File FileName="MP.ApiDotNet6.Api/Program.cs" Line="67" Column="24" />
+      <File FileName="MP.ApiDotNet6.Application/DTOs/UserDTO.cs" Line="7" Column="43" />
+      <File FileName="MP.ApiDotNet6.Application/DTOs/Validations/UserDTOValidator.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MP.ApiDotNet6" expanded="True">
+            <Node name="MP.ApiDotNet6.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="MP.ApiDotNet6.Application" expanded="True">
+              <Node name="DTOs" expanded="True">
+                <Node name="Validations" expanded="True">
+                  <Node name="UserDTOValidator.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="MP.ApiDotNet6.Domain" expanded="True">
+              <Node name="Authentication" expanded="True" />
+            </Node>
+            <Node name="MP.ApiDotNet6.Infra.Data" expanded="True">
+              <Node name="Authentication" expanded="True" />
+            </Node>
+            <Node name="MP.ApiDotNet6.Infra.IoC" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.csproj.AssemblyReference.cache
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.AssemblyInfoInputs.cache
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.AssemblyInfo.cs
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.csproj.CoreCompileInputs.cache
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/bin/Debug/net6.0/MP.ApiDotNet6.Application.deps.json
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/bin/Debug/net6.0/MP.ApiDotNet6.Application.dll
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/bin/Debug/net6.0/MP.ApiDotNet6.Application.pdb
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/bin/Debug/net6.0/MP.ApiDotNet6.Domain.dll
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/bin/Debug/net6.0/MP.ApiDotNet6.Domain.pdb
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.csproj.CopyComplete
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.dll
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/refint/MP.ApiDotNet6.Application.dll
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/MP.ApiDotNet6.Application.pdb
+/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/obj/Debug/net6.0/ref/MP.ApiDotNet6.Application.dll
