@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "MP.ApiDotNet6.Domain": {
+      "commandName": "Project"
+    }
+  }
+}
