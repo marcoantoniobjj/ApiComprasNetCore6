@@ -1,37 +1,43 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Api/MP.ApiDotNet6.Api.csproj": {}
+    "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj": {}
   },
   "projects": {
-    "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Api/MP.ApiDotNet6.Api.csproj": {
+    "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Api/MP.ApiDotNet6.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj",
         "projectName": "MP.ApiDotNet6.Api",
-        "projectPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Api/MP.ApiDotNet6.Api.csproj",
-        "packagesPath": "/Users/alunos/.nuget/packages/",
-        "outputPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Api/obj/",
+        "projectPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj",
+        "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/alunos/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/MP.ApiDotNet6.Application.csproj": {
-                "projectPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/MP.ApiDotNet6.Application.csproj"
+              "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj": {
+                "projectPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj"
               },
-              "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Infra.IoC/MP.ApiDotNet6.Infra.IoC.csproj": {
-                "projectPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Infra.IoC/MP.ApiDotNet6.Infra.IoC.csproj"
+              "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.IoC\\MP.ApiDotNet6.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.IoC\\MP.ApiDotNet6.Infra.IoC.csproj"
               }
             }
           }
@@ -78,35 +84,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/MP.ApiDotNet6.Application.csproj": {
+    "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/MP.ApiDotNet6.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
         "projectName": "MP.ApiDotNet6.Application",
-        "projectPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/MP.ApiDotNet6.Application.csproj",
-        "packagesPath": "/Users/alunos/.nuget/packages/",
-        "outputPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/obj/",
+        "projectPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
+        "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/alunos/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Domain/MP.ApiDotNet6.Domain.csproj": {
-                "projectPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Domain/MP.ApiDotNet6.Domain.csproj"
+              "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
+                "projectPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
               }
             }
           }
@@ -146,27 +158,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Domain/MP.ApiDotNet6.Domain.csproj": {
+    "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Domain/MP.ApiDotNet6.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj",
         "projectName": "MP.ApiDotNet6.Domain",
-        "projectPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Domain/MP.ApiDotNet6.Domain.csproj",
-        "packagesPath": "/Users/alunos/.nuget/packages/",
-        "outputPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Domain/obj/",
+        "projectPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj",
+        "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/alunos/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -200,35 +218,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Infra.Data/MP.ApiDotNet6.Infra.Data.csproj": {
+    "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Infra.Data/MP.ApiDotNet6.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj",
         "projectName": "MP.ApiDotNet6.Infra.Data",
-        "projectPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Infra.Data/MP.ApiDotNet6.Infra.Data.csproj",
-        "packagesPath": "/Users/alunos/.nuget/packages/",
-        "outputPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Infra.Data/obj/",
+        "projectPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/alunos/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Domain/MP.ApiDotNet6.Domain.csproj": {
-                "projectPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Domain/MP.ApiDotNet6.Domain.csproj"
+              "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
+                "projectPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
               }
             }
           }
@@ -276,41 +300,47 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Infra.IoC/MP.ApiDotNet6.Infra.IoC.csproj": {
+    "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.IoC\\MP.ApiDotNet6.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Infra.IoC/MP.ApiDotNet6.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.IoC\\MP.ApiDotNet6.Infra.IoC.csproj",
         "projectName": "MP.ApiDotNet6.Infra.IoC",
-        "projectPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Infra.IoC/MP.ApiDotNet6.Infra.IoC.csproj",
-        "packagesPath": "/Users/alunos/.nuget/packages/",
-        "outputPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Infra.IoC/obj/",
+        "projectPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.IoC\\MP.ApiDotNet6.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/alunos/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/MP.ApiDotNet6.Application.csproj": {
-                "projectPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/MP.ApiDotNet6.Application.csproj"
+              "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj": {
+                "projectPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj"
               },
-              "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Domain/MP.ApiDotNet6.Domain.csproj": {
-                "projectPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Domain/MP.ApiDotNet6.Domain.csproj"
+              "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
+                "projectPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
               },
-              "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Infra.Data/MP.ApiDotNet6.Infra.Data.csproj": {
-                "projectPath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Infra.Data/MP.ApiDotNet6.Infra.Data.csproj"
+              "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj"
               }
             }
           }
@@ -350,7 +380,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
