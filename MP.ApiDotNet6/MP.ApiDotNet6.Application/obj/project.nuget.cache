@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IOi/chAPBFe0zfJP4wWPZJKQutGHbvvGuNecw1wX20wxbNCDvYHw0qD8obbq/yg/cGwW6owPSzxWwCLzJDmmLw==",
+  "dgSpecHash": "KkW7aJxFIE0+0CXV/Ui78omrK4hogRKMOAGcIpZgBI7kpW7JMfzJ/prH8kevo7WgCnwFke8eYW7LAWQlUirDLA==",
   "success": true,
-  "projectFilePath": "/Users/alunos/Documents/API.MP/MP.ApiDotNet6/MP.ApiDotNet6.Application/MP.ApiDotNet6.Application.csproj",
+  "projectFilePath": "C:\\Users\\Marco\\Documents\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
   "expectedPackageFiles": [
-    "/Users/alunos/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
-    "/Users/alunos/.nuget/packages/fluentvalidation/11.2.2/fluentvalidation.11.2.2.nupkg.sha512",
-    "/Users/alunos/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\Marco\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
